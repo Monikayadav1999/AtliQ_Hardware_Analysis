@@ -2,6 +2,8 @@
 
 The Source for this data was used from this link: https://codebasics.io/challenge/codebasics-resume-project-challenge
 
+PowerBI Dashboard link: https://www.novypro.com/project/atliq-hardware--power-bi
+
 # Provide Insights to Management in Consumer Goods Domain
 
 Atliq Hardware (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
